@@ -1,0 +1,195 @@
+.div-search-box{
+	height:70px;
+	width:100%;
+	
+	background:grey;
+	font-size:25px;
+	line-height:20px;
+	overflow:hidden;
+	position:fixed;
+}
+#search-box{
+	margin-top:12px;
+	margin-left:200px;
+	text-align:left;
+	height:40px;
+	width:40%;
+	border-radius:10px 0 0 10px;
+	line-height:15px;
+	font-size:20;	
+	color:grey;
+	overflow:inherit;
+}
+#search-button,#cart,#signin{
+	margin-top:12px;
+	height:40px;
+	width:10%;
+	border-radius:0 10px 10px 0;
+	line-height:inherit;
+	overflow:inherit;
+	font-size:inherit;
+}
+#cart{
+	margin-left:10%;
+	color:white;
+}
+#signin{
+	margin-left:4%;
+	color:white;
+}
+.deals-of-day{
+	height:400px;
+	width:100%;
+}
+.on-trend{
+	background-image:url('pics/offer3.jpg');
+	height:400px;
+	width:70%;	
+	float:left;
+	background-repeat: no-repeat;
+	background-size:100%;
+}
+.on-trend #code{
+	margin-left:70%;
+	margin-top:800px;
+	font-size:30px;
+	font-weight:bold;
+	vertical-align:middle;
+}
+.catagery{
+	height:400px;
+	width:30%;	
+	float:right;
+}
+.cfont{
+	margin-left:250px;
+	font-size:30px;
+	vertical-align:middle;
+	color:black;
+	text-decoration:none;
+}
+#c-men{
+	background-image:url('pics/men.jpg');
+	height:133px;
+	width:100%;	
+	max-width:100%;
+}
+
+#c-women{
+	background-image:url('pics/women.jpg');
+	height:133px;
+	width:100%;
+	max-width:100%;	
+}
+#c-kids{
+	background-image:url('pics/kid.jpg');
+	height:133px;
+	width:100%;	
+	max-width:100%;
+}
+.main{
+	margin-left:10%;
+	width:80%;
+}
+.main .trending,.mt-shirt,.mshoes,.mshirt,.mjeans,.wtops,.wpwear,.kwear{
+	
+	background:none;
+	height:250px;
+	width:100%;
+}
+
+.main #product1,#product2,#product3,#product4,#product5,#mt-shirt1,#mt-shirt2,#mt-shirt3,#mt-shirt4,#mt-shirt5,#mshoes1,#mshoes2,#mshoes3,#mshoes4,#mshoes5,
+#mshirt1,#mshirt2,#mshirt3,#mshirt4,#mshirt5,#mjeans1,#mjeans2,#mjeans3,#mjeans4,#mjeans5,#wtops1,#wtops2,#wtops3,#wtops4,#wtops5,
+#wpwear1,#wpwear2,#wpwear3,#wpwear4,#kwear1,#kwear2,#kwear3,#kwear4
+{
+	height:inherit;
+	width:22%;
+	float:left;
+	overflow:hide;
+}
+.main .more{
+	height:inherit;
+	width:12%;
+	float:left;
+	overflow:hide;
+	background-image:url('pics/more1.png');
+}
+
+.main .dress-size{
+	max-height:70%;
+	width:100%;
+	padding:2px;
+}
+.main .shadow:hover{
+	box-shadow:3px 3px 3px 3px grey;
+	border-radius:4px;
+	
+}
+.desc .strick{
+	text-decoration:line-through;
+}
+.add-to-cart{
+	background:green;
+	background-color:green;
+	color:white;
+	
+}
+#move-to-top{
+	background:blue;
+	color:white;
+	border-radius:40px;
+	height:60px;
+	width:60px;
+	position:fixed;
+	bottom:15px;
+	right:20px;
+	font-size:40px;
+	text-align:center;
+	vertical-align:middle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
